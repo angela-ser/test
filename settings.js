@@ -54,18 +54,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['989175919318'] //ur owner number
+global.vcardowner = ['989175142780'] //ur owner number
 global.ownername = "🦄SATA Guy Xeon" //ur owner name
 global.ytname = "YT: SATA" //ur yt chanel name
 global.socialm = "GitHub: SATA" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
-global.owner = ['989175919318']
-global.ownertag = '989175919318' //ur tag number
+global.owner = ['989175142780']
+global.ownertag = '989175142780' //ur tag number
 global.botname = 'SATA Bot MD V4' //ur نام ربات 
 global.linkz = "instagram.com/sata_iran_com" //your theme url which will be displayed on whatsapp
 global.websitex = "instagram.co/sata_iran_com" // اینستاگرام 
-global.botscript = 'wa.me/989175919318' // مالک ربات 
+global.botscript = 'wa.me/989175142780' // مالک ربات 
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "SATA Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
